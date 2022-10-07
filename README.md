@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Altealien
 - 👀 I’m interested in Game Development, Web Development and Mobile App Dev.
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to have a practice buddy who I can learn C# with.
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to have a practice buddy who I can learn C++ with.
 - 📫 How to reach me Email:omotayodavid657@gmail.com Instagram:https://www.instagram.com/s.u.bomi/
 
 <!---
